@@ -29,6 +29,9 @@ img{
       display: flex;
       align-items: center;
 }
+.nav-others{
+    margin-left: 10px;
+}
 .nav-item, .icon{
     margin-left: 50px;
     color: black;
@@ -73,7 +76,7 @@ img{
     right: -120px;
     }
 .t{
-    top: 60px;
+    top: 0px;
     right: 85px;
 }
 .text{
